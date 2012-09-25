@@ -9,3 +9,11 @@ color: #061C37;
 background: #CCCCCC;
 
 }
+
+#conatiner
+{
+display:block;
+height:auto;
+position:relative;
+width:960px;
+}
