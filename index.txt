@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<link rel="stylesheet" type="text/css" href="css_style.css">
+</head>
+<h1>
+EVENT ORGANISER 
+</h1>
+<p>
+This website aims to keep track of various events organised by faculty,staff and students. 
+</p>
+
+</body>
+</html>
