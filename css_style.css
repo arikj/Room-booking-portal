@@ -28,7 +28,7 @@ display: block;
 position:absolute;
 text-align:left;
 color:#FFFFFF;
-font-size:30px;
+font-size:33px;
 color:#FFF;	
 left:150px;
 top:15px;
@@ -39,7 +39,7 @@ top:15px;
 position:absolute;
 text-align:left;
 color:#000000;
-font-size:30px;
+font-size:33px;
 color:#000000;
 left:270px;
 top:15px;	
@@ -49,7 +49,7 @@ top:15px;
 {
 position:absolute;
 text-align:left;
-color:#FFFFFF;
+color:#000000;
 font-size:20px;
 left:650px;
 top:10px;
@@ -66,9 +66,19 @@ width:500px;
 height:200px;
 }
 
+#form
+{
+position:absolute;
+top:100px;
+left:500px;
+text-align:left;
+text-size:20px;
+}
 #home
 {
 position:absolute;
+font-size:20px;
+color: #FFFFFF;
 left:1000px;
 top:100px;
 }
