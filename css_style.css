@@ -5,11 +5,21 @@ padding:0;
 text-align:left;
 font-size:12px Arial,sans-serif;
 font-size:13px;
-color: #061C37;
-background: #CCCCCC;
+color: #fff;
+background: url(image/bg.jpg) no-repeat;
 
 }
 
+#header
+{
+display: block;
+	margin: 0 auto;
+	width: 1009px;
+	height: 150px;
+	padding: 3px 0 0 100px ;
+	
+	background: url(image/buttons.png) left top no-repeat;
+}
 
 #header1
 {
@@ -18,8 +28,8 @@ text-align:left;
 color:#FFFFFF;
 font-size:30px;
 color:#FFF;	
-left:14px;
-top:18px;
+left:150px;
+top:15px;
 }
 
 #header2
@@ -28,22 +38,30 @@ position:absolute;
 text-align:left;
 color:#000000;
 font-size:30px;
-color:#000000;	
-left:140px;
-top:18px;
+color:#000000;
+left:270px;
+top:15px;	
 }
 
-h2
+#header3
 {
 position:absolute;
 text-align:left;
-color:#EEEEEE;
+color:#FFFFFF;
 font-size:20px;
-left:1000px;
-top:18px;
+left:800px;
+top:20px;
 }
 
-
+#cse
+{
+border:3px solid #33FFFF;
+position:absolute;
+left:300px;
+top:100px;
+width:500px;
+height:200px;
+}
 #content
 {
 display:block;

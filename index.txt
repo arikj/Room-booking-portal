@@ -4,12 +4,18 @@
 <head>
 <link rel="stylesheet" type="text/css" href="css_style.css">
 </head>
-<h1>
-EVENT ORGANISER 
-</h1>
-<p>
-This website aims to keep track of various events organised by faculty,staff and students. 
-</p>
-
+<table border="0">
+<tr>
+<td id="header1">
+EVENT
+</td>
+<td id="header2">
+MANAGER
+</td>
+<td id="header3">
+CSE Department,IIT KANPUR
+</td>
+</tr>
+</table>
 </body>
 </html>
