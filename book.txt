@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css_style.css">
+</head>
+<body>
+<p>
+This is booking page
+</p>
+</body>
+</html>
