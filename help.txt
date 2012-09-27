@@ -1,10 +1,21 @@
 <!DOCTYPE html>
+<html>
 <head>
 <link rel="stylesheet" type="text/css" href="css_style.css">
 </head>
-<html>
 <body>
-<p>
+<div id=header>
+<h1 id="header1">
+EVENT
+</h1>
+<h1 id="header2">
+MANAGER
+</h1>
+<h2 id="header3">
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING IIT KANPUR
+</h2>
+</div>
+<a href="index.html" id="home">HOME</a> 
 This is helping page
 </p>
 </body>

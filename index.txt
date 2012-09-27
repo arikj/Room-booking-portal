@@ -1,21 +1,51 @@
+
 <!DOCTYPE html>
 <html>
-<body>
 <head>
 <link rel="stylesheet" type="text/css" href="css_style.css">
 </head>
-<table border="0">
-<tr>
-<td id="header1">
+<body>
+<div id=header>
+<h1 id="header1">
 EVENT
-</td>
-<td id="header2">
+</h1>
+<h1 id="header2">
 MANAGER
+</h1>
+<h2 id="header3">
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING IIT KANPUR
+</h2>
+</div>
+<p font-size="20">
+<img src="image/cse-iitk.gif" alt="CSE BUILDING" id="cse" alt=""CSE BUILDING">
+<a href="index.html" id="home">HOME</a> 
+</p>
+<p class="main_box_top"></p>
+<table id="table">
+<tr>
+<td id="cell1">
+<p>
+<a href="login.html">
+<img src="image/img2.png" alt="BOOK" align="left" height="120" width="120">
+</a>Click the icon to book a room 
+</p>
 </td>
-<td id="header3">
-CSE Department,IIT KANPUR
+<td id="cell2">
+ <p>
+<a href="view.html">
+<img  src="image/view.png" alt="VIEW"  align="left" height="120" width="120"></a>
+Click the icon to see events or availability of rooms
+</p>
+</td>
+<td id="cell3">
+<p>
+<a href="help.html">
+<img src="image/ques.png" alt="INSTRUCTIONS" align="left" height="120" width="120"></a>
+Click the icon for help or contact us 
+</p>
 </td>
 </tr>
 </table>
+<p class="main_box_bot"></p>
 </body>
 </html>
