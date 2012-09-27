@@ -1,8 +1,33 @@
 <!DOCTYPE html>
 <html>
+<head>
+<link rel="stylesheet" type="text/css" href="css_style.css">
+</head>
 <body>
-<p>
+<div id=header>
+<h1 id="header1">
+EVENT
+</h1>
+<h1 id="header2">
+MANAGER
+</h1>
+<h2 id="header3">
+CSE DEPARTMENT IIT KANPUR
+</h2>
+</div>
+<img src="image/cse-iitk.gif" alt="CSE BUILDING" id="cse" alt=""CSE BUILDING">
+<a href="index.html" id="home">HOME</a> 
+<div id="form"> 
+<form action="">
+<fieldset>
+<legend>LOGIN TO PROCEED</legend>
+USER-ID<input type="text" name="userid" size="34"><br><br>
+PASSWORD<input type="password" name="password" size="30"><br><br>
+<a href="book.html">LOG IN</a>
+</fieldset>
+</form>
 
-</p>
+</div>
+
 </body>
 </html>

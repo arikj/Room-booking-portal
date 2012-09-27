@@ -2,6 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+<!DOCTYPE html>
+<html>
+<head>
 <link rel="stylesheet" type="text/css" href="css_style.css">
 </head>
 <body>
@@ -13,8 +17,15 @@ EVENT
 MANAGER
 </h1>
 <h2 id="header3">
-DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING IIT KANPUR
+CSE DEPARTMENT IIT KANPUR
 </h2>
+</div>
+<div id="detail">
+<p>
+The department of Computer Science and Engineering, IIT Kanpur actively conducts various seminars, lectures, workshops,talks,meetings.<br>
+In order to conduct these events smoothly, we need an Event Organiser.
+This website allows to see various events taking place in the department and book rooms for any event.
+</p>
 </div>
 <p font-size="20">
 <img src="image/cse-iitk.gif" alt="CSE BUILDING" id="cse" alt=""CSE BUILDING">
