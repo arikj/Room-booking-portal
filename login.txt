@@ -18,10 +18,10 @@ CSE DEPARTMENT IIT KANPUR
 <img src="image/cse-iitk.gif" alt="CSE BUILDING" id="cse" alt=""CSE BUILDING">
 <a href="index.html" id="home">HOME</a> 
 <div id="form"> 
-<form action="">
+<form action="check.php?login=yes" method="post">
 <fieldset>
 <legend>LOGIN TO PROCEED</legend>
-USER-ID<input type="text" name="userid" size="34"><br><br>
+USERNAME<input type="text" name="username" size="30"><br><br>
 PASSWORD<input type="password" name="password" size="30"><br><br>
 <a href="book.html">LOG IN</a>
 </fieldset>
